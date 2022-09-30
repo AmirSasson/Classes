@@ -1,6 +1,7 @@
 
 
-
+# https://replit.com/languages/python3
+    
 # ששש... זאת הססמא
 password = "87445"
 
